@@ -1,8 +1,1 @@
-PRODUCT_PACKAGES += \
-	GmsCore \
-	GsfProxy \
-	FakeStore \
-	IchnaeaNlpBackend \
-	NominatimGeocoderBackend \
-	FDroid \
-	additional_repos.xml
+# Adding a placebo effect...
